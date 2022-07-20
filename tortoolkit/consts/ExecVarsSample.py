@@ -7,14 +7,14 @@ except:
         
         API_HASH = "6f3a051b5da7f5b499cde019d273fca1"
         API_ID = 5503927
-        BOT_TOKEN = "5228695074:AAFwm2clY93jW72378dX6H2x_KWzlFSCdoU"
-        BASE_URL_OF_BOT = "http://34.125.113.168"
+        BOT_TOKEN = "5500648463:AAE1aNIGjIrhsQegZjVGzA0KtVD_cS3sUto"
+        BASE_URL_OF_BOT = "http://34.121.178.124"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001604777319]
+        ALD_USR = [-1001680342939]
         OWNER_ID = 773325066
         
         # Google Drive Index Link should include the base dir also See readme for more info
@@ -42,10 +42,10 @@ except:
         DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
+        MEGA_ENABLE = True
+        MEGA_API = "MsYl1D6Q"
+        MEGA_UNAME = s4sparkey@gmail.com
+        MEGA_PASS = 2Aaf1f1b
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
