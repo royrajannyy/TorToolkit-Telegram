@@ -7,14 +7,14 @@ except:
         
         API_HASH = "6f3a051b5da7f5b499cde019d273fca1"
         API_ID = 5503927
-        BOT_TOKEN = "5500648463:AAE1aNIGjIrhsQegZjVGzA0KtVD_cS3sUto"
-        BASE_URL_OF_BOT = "http://34.121.178.124"
+        BOT_TOKEN = "5228695074:AAGVMBabwgXDKtjXLzkFaGI_euh_OAUK1gw"
+        BASE_URL_OF_BOT = "http://34.136.183.183"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001680342939]
+        ALD_USR = [-1001604777319]
         OWNER_ID = 773325066
         
         # Google Drive Index Link should include the base dir also See readme for more info
@@ -43,9 +43,9 @@ except:
         
         # MEGA CONFIG
         MEGA_ENABLE = True
-        MEGA_API = "U9JCEBjB"
-        MEGA_UNAME = "s4sparkey@gmail.com"
-        MEGA_PASS = "2Aaf1f1b"
+        MEGA_API = "imYmBKrB"
+        MEGA_UNAME = "royrajannta@gmail.com"
+        MEGA_PASS = "2aaf1f1b?"
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
